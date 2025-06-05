@@ -6,7 +6,7 @@ import sounddevice as sd
 import numpy as np
 import threading
 
-SERVER_IP = '192.168.0.12'  # IP do servidor
+SERVER_IP = '172.20.10.5'  # IP do servidor
 AUDIO_PORT = 5050
 COMMAND_PORT = 5051
 
